@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+
+
+html,body
+{
+	background-color: #FCEBDB;
+}
+
+header
+{
+	background: url(img/hdr.jpg);
+	background-size: auto;
+	background-color: #BF0711;
+}
+
+.title
+{
+  	position: absolute;
+  	top: 10%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	font-family: "trebuchet ms";
+  	font-weight: bolder;
+  	font-size: 42px;
+}
+
+.container
+{
+	position: relative;
+	text-align: center;
+}
+
+.subtitle
+{
+	position: absolute;
+  	top: 8px;
+  	right: 16px;
+  	font-size: 12px;
+  	font-family: helvetica;
+}
+
+.sub
+{
+	padding-left: 80px;
+	font-family: arial;
+	margin-bottom: 20px;
+	list-style-position: inside;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.profile
+{
+	width: 60%;
+	background-color: #FFC58B;
+	border-radius: 8px;
+	color: #000;
+	padding: 2px 10px 2px;
+	position: absolute;
+	left: 432px;
+	top: 570px;
+}
+
+.edu
+{
+	font-size: 14px;
+}
+
+.skills
+{
+	width: 55%;
+	position: absolute;
+	width: 250px;
+	left: 70%;
+	bottom: 20%;
+	padding-left: 20px;
+	padding-right: 45px;
+	height: 350px;
+	text-align: left;
+	border-left: 4px solid #BF0711;
+}
+
+
+.exp
+{
+	font-size: 14px;
+}
+
+.info
+{
+
+}
+
+body
+{
+
+}
+
+.rightpane
+{
+	position: absolute;
+	border-radius: 8px;
+	width: 35%;
+	height: 350px;
+	left: 32%;
+	padding-left: 20px;
+	bottom: 20%;
+}
+.doge
+{
+	width: 25%;
+	height: 25%;
+	position: sticky;
+	padding: 10px 10px 10px 10px;
+	border-right: 4px solid #BF0711;
+
+}
+
+.exp
+{
+
+}
+
+.sub p
+{
+	font-family: 'Titillium Web', sans-serif;
+
+}
+
+.sub h2
+{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.sub ul li
+{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 14px;
+}
